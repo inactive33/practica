@@ -51,8 +51,8 @@ namespace pract02
         /// <summary>
         /// Метод btn_Click отвечает за обработку нажатия основных игровых кнопок
         /// </summary>
-        /// <param name="sender", объект, вызвавший событие>
-        /// <param name="e", экземпляр EventArgs включения>
+        /// <param name="sender">объект, вызвавший событие </param>
+        /// <param name="e">экземпляр EventArgs включения </param> 
         private void btn_Click(object sender, EventArgs e)
         {
             Random random = new Random();
@@ -65,7 +65,7 @@ namespace pract02
         /// Метод startbtn_Click_1 обработка нажатия для старовой кнопки
         /// </summary>
         /// <param name="sender", объект, вызвавший событие>
-        /// <param name="e", экземпляр EventArgs включения>
+        /// <param name="e"> экземпляр EventArgs включения </param> 
         private void startbtn_Click_1(object sender, EventArgs e)
         {
             // Скрываем стартовую кнопку

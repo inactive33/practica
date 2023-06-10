@@ -128,13 +128,13 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(512, 136);
+            this.Controls.Add(this.startbtn);
             this.Controls.Add(this.lblDescription);
             this.Controls.Add(this.btnClick_5);
             this.Controls.Add(this.btnClick_4);
             this.Controls.Add(this.btnClick_3);
             this.Controls.Add(this.btnClick_2);
             this.Controls.Add(this.btnClick_1);
-            this.Controls.Add(this.startbtn);
             this.Name = "GameForm";
             this.Text = "Игра";
             this.ResumeLayout(false);
