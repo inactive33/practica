@@ -24,7 +24,7 @@ namespace pract02_2
         /// </summary>
         private void SolutionForm_Load(object sender, EventArgs e)
         {
-            TxtValueX.Text = "3,251";
+            TxtValueX.Text = "6,251";
             TxtValueY.Text =  "0,827";
             TxtValueZ.Text = "25,001";
             TxtValueB.Text = "0,7121";
@@ -33,7 +33,7 @@ namespace pract02_2
         /// Метод Calculation вычислляет текущие переменные
         /// и возвращает результат
         /// </summary
-        private double Calculation(ref double total)
+        private double Calculation(ref double total)    
         {
             double x, y, z, b;
             x = double.Parse(TxtValueX.Text);
