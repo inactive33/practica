@@ -4,7 +4,7 @@
   <description asmv2:publisher="pract02" asmv2:product="pract02" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.8.1" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
     <dependentAssembly dependencyType="install" codebase="pract02.exe.manifest" size="3632">
@@ -14,7 +14,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/UOXVUi6NrniNNeLmkKL66UysEWfjECAa08NP0jPMX0=</dsig:DigestValue>
+        <dsig:DigestValue>fdEn61O+TkeivLEFVet3YmdYS+YaUsPnY52/E90TBEo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -34,7 +34,7 @@ namespace pract02_3
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
-        private void button1_Click(object sender, EventArgs e)
+        public void button1_Click(object sender, EventArgs e)
         {
             double x = Convert.ToDouble(TxtBoxX.Text);
             double y = Convert.ToDouble(TxtBoxY.Text);
@@ -50,7 +50,7 @@ namespace pract02_3
         /// <param name="y"></param>
         /// <param name="z"></param>
         /// <returns></returns>
-        private double SumSin(double x, double y, double z)
+        public double SumSin(double x, double y, double z)
         {
             double max = Math.Max(Math.Sin(x), Math.Max(y, z));
             double min = Math.Min(Math.Sin(x), y);
@@ -64,7 +64,7 @@ namespace pract02_3
         /// <param name="y"></param>
         /// <param name="z"></param>
         /// <returns></returns>
-        private double SumCos(double x, double y, double z)
+        public double SumCos(double x, double y, double z)
         {
             double max = Math.Max(Math.Cos(x), Math.Max(y, z));
             double min = Math.Min(Math.Cos(x), y);
@@ -78,7 +78,7 @@ namespace pract02_3
         /// <param name="y"></param>
         /// <param name="z"></param>
         /// <returns></returns>
-        private double SumExp(double x, double y, double z)
+        public double SumExp(double x, double y, double z)
         {
             double max = Math.Max(Math.Exp(x), Math.Max(y, z));
             double min = Math.Min(Math.Exp(x), y);
@@ -93,7 +93,7 @@ namespace pract02_3
         /// <param name="y"></param>
         /// <param name="z"></param>
         /// <returns></returns>
-        private double CheckFunc(double x, double y, double z)
+        public double CheckFunc(double x, double y, double z)
         {
             if (rdoBtnSin.Checked)
             {
