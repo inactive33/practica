@@ -20,3 +20,13 @@ H:\up02\pract02_2\obj\Debug\pract02_2.csproj.GenerateResource.cache
 H:\up02\pract02_2\obj\Debug\pract02_2.csproj.CoreCompileInputs.cache
 H:\up02\pract02_2\obj\Debug\pract02_2.exe
 H:\up02\pract02_2\obj\Debug\pract02_2.pdb
+E:\up02\pract02_2\bin\Debug\pract02_2.exe.config
+E:\up02\pract02_2\bin\Debug\pract02_2.exe
+E:\up02\pract02_2\bin\Debug\pract02_2.pdb
+E:\up02\pract02_2\obj\Debug\pract02_2.csproj.AssemblyReference.cache
+E:\up02\pract02_2\obj\Debug\pract02_2.SolutionForm.resources
+E:\up02\pract02_2\obj\Debug\pract02_2.Properties.Resources.resources
+E:\up02\pract02_2\obj\Debug\pract02_2.csproj.GenerateResource.cache
+E:\up02\pract02_2\obj\Debug\pract02_2.csproj.CoreCompileInputs.cache
+E:\up02\pract02_2\obj\Debug\pract02_2.exe
+E:\up02\pract02_2\obj\Debug\pract02_2.pdb

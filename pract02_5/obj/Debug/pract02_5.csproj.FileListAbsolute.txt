@@ -1,0 +1,10 @@
+E:\up02\pract02_5\bin\Debug\pract02_5.exe.config
+E:\up02\pract02_5\bin\Debug\pract02_5.exe
+E:\up02\pract02_5\bin\Debug\pract02_5.pdb
+E:\up02\pract02_5\obj\Debug\pract02_5.csproj.AssemblyReference.cache
+E:\up02\pract02_5\obj\Debug\pract02_5.Properties.Resources.resources
+E:\up02\pract02_5\obj\Debug\pract02_5.csproj.GenerateResource.cache
+E:\up02\pract02_5\obj\Debug\pract02_5.csproj.CoreCompileInputs.cache
+E:\up02\pract02_5\obj\Debug\pract02_5.exe
+E:\up02\pract02_5\obj\Debug\pract02_5.pdb
+E:\up02\pract02_5\obj\Debug\pract02_5.SolutionForm.resources
