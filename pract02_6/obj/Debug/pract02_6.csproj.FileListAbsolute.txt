@@ -1,0 +1,11 @@
+D:\up02\pract02_6\bin\Debug\pract02_6.exe.config
+D:\up02\pract02_6\bin\Debug\pract02_6.exe
+D:\up02\pract02_6\bin\Debug\pract02_6.pdb
+D:\up02\pract02_6\obj\Debug\pract02_6.csproj.AssemblyReference.cache
+D:\up02\pract02_6\obj\Debug\pract02_6.csproj.SuggestedBindingRedirects.cache
+D:\up02\pract02_6\obj\Debug\pract02_6.SolutionForm.resources
+D:\up02\pract02_6\obj\Debug\pract02_6.Properties.Resources.resources
+D:\up02\pract02_6\obj\Debug\pract02_6.csproj.GenerateResource.cache
+D:\up02\pract02_6\obj\Debug\pract02_6.csproj.CoreCompileInputs.cache
+D:\up02\pract02_6\obj\Debug\pract02_6.exe
+D:\up02\pract02_6\obj\Debug\pract02_6.pdb
