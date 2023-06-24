@@ -1,0 +1,11 @@
+D:\up02\pract02_8\bin\Debug\pract02_8.exe.config
+D:\up02\pract02_8\bin\Debug\pract02_8.exe
+D:\up02\pract02_8\bin\Debug\pract02_8.pdb
+D:\up02\pract02_8\obj\Debug\pract02_8.csproj.AssemblyReference.cache
+D:\up02\pract02_8\obj\Debug\pract02_8.csproj.SuggestedBindingRedirects.cache
+D:\up02\pract02_8\obj\Debug\pract02_8.Properties.Resources.resources
+D:\up02\pract02_8\obj\Debug\pract02_8.csproj.GenerateResource.cache
+D:\up02\pract02_8\obj\Debug\pract02_8.csproj.CoreCompileInputs.cache
+D:\up02\pract02_8\obj\Debug\pract02_8.exe
+D:\up02\pract02_8\obj\Debug\pract02_8.pdb
+D:\up02\pract02_8\obj\Debug\pract02_8.PaintForm.resources

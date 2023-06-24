@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E4538446-F7B6-439C-B89E-F7F1C87A492E}</ProjectGuid>
+    <ProjectGuid>{9A3D8AAF-7C7A-47CE-B063-96D83311E9AC}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>pract02_8</RootNamespace>
-    <AssemblyName>pract02_8</AssemblyName>
+    <RootNamespace>pract02_7</RootNamespace>
+    <AssemblyName>pract02_7</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,16 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PaintForm.cs">
+    <Compile Include="..\pract02_8\Form1.cs">
       <SubType>Form</SubType>
+      <Link>Form1.cs</Link>
     </Compile>
-    <Compile Include="PaintForm.Designer.cs">
-      <DependentUpon>PaintForm.cs</DependentUpon>
+    <Compile Include="..\pract02_8\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <Link>Form1.Designer.cs</Link>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="PaintForm.resx">
-      <DependentUpon>PaintForm.cs</DependentUpon>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
